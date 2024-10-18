@@ -1,0 +1,56 @@
+[
+    {
+        "ISBN": "399135782",
+        "Book-Title": "The Kitchen God's Wife",
+        "Book-Author": "Amy Tan",
+        "Year-Of-Publication": "1991",
+        "Publisher": "Putnam Pub Group",
+        "Downloads": "1",
+        "Price": "176"
+    },
+    {
+        "ISBN": "080410753X",
+        "Book-Title": "The Kitchen God's Wife",
+        "Book-Author": "Amy Tan",
+        "Year-Of-Publication": "1992",
+        "Publisher": "Ivy Books",
+        "Downloads": "1",
+        "Price": "42"
+    },
+    {
+        "ISBN": "679748083",
+        "Book-Title": "The Kitchen God's Wife (Vintage Contemporaries)",
+        "Book-Author": "Amy Tan",
+        "Year-Of-Publication": "1993",
+        "Publisher": "Vintage Books USA",
+        "Downloads": "1",
+        "Price": "149,9"
+    },
+    {
+        "ISBN": "399146431",
+        "Book-Title": "The Bonesetter's Daughter",
+        "Book-Author": "Amy Tan",
+        "Year-Of-Publication": "2001",
+        "Publisher": "Putnam Publishing Group",
+        "Downloads": "3",
+        "Price": "99,9"
+    },
+    {
+        "ISBN": "399141146",
+        "Book-Title": "The Hundred Secret Senses",
+        "Book-Author": "Amy Tan",
+        "Year-Of-Publication": "1995",
+        "Publisher": "Putnam Pub Group",
+        "Downloads": "25",
+        "Price": "199"
+    },
+    {
+        "ISBN": "804114986",
+        "Book-Title": "The Bonesetter's Daughter",
+        "Book-Author": "Amy Tan",
+        "Year-Of-Publication": "2002",
+        "Publisher": "Ballantine Books",
+        "Downloads": "1",
+        "Price": "0"
+    }
+]
